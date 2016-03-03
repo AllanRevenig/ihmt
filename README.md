@@ -1,4 +1,2 @@
 # ihmt
-mwj practicum
-
-journy practicum master
+mobile web journey practicum master
